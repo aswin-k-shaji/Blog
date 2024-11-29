@@ -1,0 +1,11 @@
+.main{
+    height:60px;
+    width:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color: rgb(209, 242, 231);
+}
+Link{
+    color:red;
+}
